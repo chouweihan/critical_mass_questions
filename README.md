@@ -33,7 +33,7 @@ When I first came across these sites, I thought it was really cool to see all th
 
 ### 2 Animations
 One thing I'll like to eventually do one day is to make the insane animations that enterprise websites does.
-Here are a few examples (apple ipad)[https://www.apple.com/ca/ipad-air/] and (samsung tablet)[https://www.samsung.com/ca/tablets/galaxy-tab-s/galaxy-tab-s8-ultra-wifi-graphite-128gb-sm-x900nzaaxac/]
+Here are a few examples [apple ipad](https://www.apple.com/ca/ipad-air/) and [samsung tablet](https://www.samsung.com/ca/tablets/galaxy-tab-s/galaxy-tab-s8-ultra-wifi-graphite-128gb-sm-x900nzaaxac/)
 
 I'd like to put animations like these on my personal portfolio site one day.
 
